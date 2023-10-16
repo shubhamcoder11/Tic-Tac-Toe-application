@@ -1,4 +1,5 @@
 # Tic-Tac-Toe
+Deploy on netlify: https://652d2e93ef45b1059e04c897--warm-croissant-5f8ca7.netlify.app/
 
 - Two player can play tic-tac-toe
 - one will be blue other will be red.
